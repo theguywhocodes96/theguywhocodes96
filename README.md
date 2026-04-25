@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a backend developer specializing in Node.js with over 3 years of professional experience. My expertise extends to DevOps, where I handle the deployment of both front-end and back-end applications on cloud platforms. Currently, I’m expanding my skill set to include full-stack development with a focus on the MERN stack, aiming to broaden my capabilities and contribute to more diverse projects.
+I’m a backend developer specializing in Node.js with over 5 years of professional experience. My expertise extends to DevOps, where I handle the deployment of both front-end and back-end applications on cloud platforms. Currently, I’m expanding my skill set to include full-stack development with a focus on the MERN stack, aiming to broaden my capabilities and contribute to more diverse projects.
 
 
 ## 🌐 Socials:
